@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvave",
+        "uuid": 4656250,
+        "checksum": "xs75j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
